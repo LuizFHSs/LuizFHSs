@@ -4,7 +4,7 @@
 
 ### Meu primeiro contato com uma linguagem de programação foi no meu curso técnico de Automação Industrial onde eu conheci o microcontrolador Arduino, foi a melhor experiência acadêmica durante o curso, poder programar um microcontrolador utilizando a linguagem C. Essa experiência me levou a escolher o curso de computação na faculdade, onde a primeira linguagem que aprendi foi C++.
 
-### Desde então decidi dedicar meu tempo no meu desenvolvimento técnico em linguagens de programação, criando projetos simples para aprimorar meus conhecimentos em C++ e também aprendendo HTML. 
+### Desde então decidi dedicar meu tempo no meu desenvolvimento técnico em linguagens de programação, criando projetos simples para aprimorar meus conhecimentos nas linguagens em que quero ter domínio.
 
 # Linguagens que já tenho conhecimento básico:
 
